@@ -51,9 +51,7 @@ Modern React-based platform focused on accessibility and structured dashboards.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DoomsCoder&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DoomsCoder&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=DoomsCoder&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
