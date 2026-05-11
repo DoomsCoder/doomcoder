@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Kakade</h1>
-<h3 align="center">Android Developer (Kotlin) • Open Source Contributor • GSoC 2026 Aspirant</h3>
+<h3 align="center">Android Developer (Kotlin) • Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/DoomsCoder">
