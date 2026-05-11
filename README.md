@@ -74,6 +74,10 @@ Modern React-based platform focused on accessibility and structured dashboards.
   <a href="mailto:vedantkakade05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
+  <a href="https://discordapp.com/users/vedant12356">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
 </p>
 
 ---
